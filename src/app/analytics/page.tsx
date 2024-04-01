@@ -1,6 +1,7 @@
-import React from "react";
+import { analytics } from "@/utils/analytics";
 
-const Page = () => {
+const Page = async () => {
+    const pageView = await analytics.retrieve("pageview");
     return <p>page</p>;
 };
 
