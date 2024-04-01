@@ -15,7 +15,7 @@ export default async function middleware(req: NextRequest) {
                 {}
             );
         } catch (err) {
-            // fail silently to not affect request
+            //Fail silently
             console.error(err);
         }
     }
