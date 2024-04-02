@@ -1,4 +1,4 @@
-[Analytics View](https://github.com/pj-mill/dashboard-nextjs-analytics/blob/master/screenshots/analytics-page.PNG)
+![Analytics View](https://github.com/pj-mill/dashboard-nextjs-analytics/blob/master/screenshots/analytics-page.PNG)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
